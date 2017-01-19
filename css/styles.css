@@ -9,3 +9,19 @@
   font-family: cursive;
 
 }
+
+@media screen and (max-width: 1000px) {
+  .animals {
+    width: 300px;
+    float: left;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .animals {
+    width: 100%;
+    float: none;
+    padding: 20px;
+  }
+}
