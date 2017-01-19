@@ -1,0 +1,11 @@
+.animals {
+  float:left;
+  width:30%;
+   border: solid black 3px;
+}
+.animals p {
+  padding: 20px;
+  margin: 20px;
+  font-family: cursive;
+
+}
